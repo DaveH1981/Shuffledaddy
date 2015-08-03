@@ -1,0 +1,45 @@
+<style>
+<!--
+
+body	{ 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #BDB76B;
+	text-align: center;
+}
+
+a:link	{
+	font-weight: bold;
+	color: #006699;
+	text-decoration: underline overline;
+}
+
+a:visited{
+	color: #6666FF;
+	text-decoration: underline overline;
+}
+
+a:hover{
+	font-style: italic;
+	font-weight: bold;
+	color: #8E236B;
+}
+
+h1	{
+	font-family: Century Schoolbook, Times New Roman, Times, Serif;
+	font-size: 36px;
+	text-align: center;
+}
+
+h2	{
+	font-family: Century Schoolbook, Times New Roman, Times, Serif;
+	font-size: 28px;
+	text-align: center;
+}
+	
+ul	{
+	list-style-image: url(http://web.gccaz.edu/~dhunsdon/images/ball.gif);
+}
+
+-->
+</style>
