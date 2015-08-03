@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBliC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<body bgcolor="#BDB76B">
+
+<head>
+
+<title>David Hunsdon Section 15591</title>
+
+<link href="http://web.gccaz.edu/~dhunsdon/Project-8/proj8_style.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" language="JavaScript">
+<!--
+
+window.onload=init;
+
+function changeText(whichList) {
+	whichList.style.fontSize="18pt";
+	whichList.style.color="#FF0033";
+}
+function changeTextBack(whichList) {
+	whichList.style.fontSize="12pt";
+	whichList.style.color="#000000";
+}
+-->
+</script>
+
+</head>
+
+<h2>A Cat Companion Primer</h2>
+
+<img src="http://web.gccaz.edu/~dhunsdon/images/ginger-cat-hi.png" alt="clip art image of an orange cat" align="center" width="189" length="299" />
+
+<em>Some things to consider before adopting a cat:</em>
+
+<h3>Make Sure Everyone Is On Board</h3>
+
+<p>If you live with your family, talk to them before adopting a cat. Make sure they understand the
+responsibility in caring for an animal and are willing to help out. In some cases, it may be helpful
+to make a chart that states who is responsible for what part of the cat's care. This way, everything
+is clear and there is no confusion. If you have roommates, be sure to check with them before getting
+a cat. If you rent, ask your landlord if you are unsure about whether cats are allowed.</p>
+
+<h3>Be Prepared</h3>
+
+<p>It is important to have the supplies you will need <strong>before</strong> the cat arrives. Some 
+basic items include:
+
+<ol>
+	<li id="oneList" class="list"><p><a href="#" onClick="expand('one'); return false"; onMouseOver="changeText(this); "OnMouseOut="changeTextBack(this);">A litter box with litter and cat pan liners</a></p></li>
+	<li id="oneList" class="list"><p><a href="#" onClick="expand('two'); return false"; onMouseOver="changeText(this); "OnMouseOut="changeTextBack(this);">Appropriate cat food plus food and water bowls</a></p></li>
+	<li id="oneList" class="list"><p><a href="#" onClick="expand('three'); return false"; onMouseOver="changeText(this); "OnMouseOut="changeTextBack(this);">Safe toys to keep your cat entertained</a></p></li>
+	<li id="oneList" class="list"><p><a href="#" onClick="expand('four'); return false"; onMouseOver="changeText(this); "OnMouseOut="changeTextBack(this);">A soft bed lined with a blanket or towel</a></p></li>
+	<li id="oneList" class="list"><p><a href="#" onClick="expand('five'); return false"; onMouseOver="changeText(this); "OnMouseOut="changeTextBack(this);">Grooming tools such as a good brush and nail clippers</a></p></li>
+<ol>
+
+<h3>Give Your Cat Her Space</h3>
+
+<p>Find a low-traffic room or area of your home and designate that as your cat's space. Arrange her food 
+and water bowls, litter box, and bed in an inviting manner. Scatter some cat toys around and clear out 
+nearby areas such as windowsills. This will help your cat feel welcome as she adjusts to her new home.</p>
+
+<h3>Take It Slow</h3>
+
+<p>When you first bring your new cat home, give her some alone time before you play with her. If you have
+other animals living in your home, wait a few days before introducing them to your cat. Even then, supervision
+is important when your cat is interacting with your other pets. Also, hold off on having other people meet your 
+cat until she is eating and going to the bathroom regularly. To aid in this, avoid changing your cat's food and 
+litter brands for the first few weeks or so. Even after this point, any change should be a slow transition from 
+one kind of food or litter to another.</p>
+
+<h3>Cat-Proof Your Home</h3>
+
+<p>Last but not least, please ensure that your home is reasonably free from hazards that could endanger your
+cat. Some examples of hazards are toxic houseplants, loose items that could be chewed or swallowed, and loose
+electrical wires. It is also helpful to keep items such as toilet paper, paper towels, and facial tissues out
+of the reach of your cat. This will help avoid a messy situation. For more information about plants, chemicals, and
+other items toxic to cats, please click on the links below.</p>
+
+<ul>
+	<li><a href="http://www.cat-world.com.au/plants-a-other-chemicals-toxic" target="_blank" title="List of toxic chemicals and plants, plus non-toxic plants - Opens in New Window">List of Toxic Chemicals and both Toxic and Non-toxic Plants</a></li>
+	<li><a href="http://www.medicinenet.com/pets/cat-health/top_10_cat_poisons.htm" target="_blank" title="The Top 10 Cat Poisons - Opens in New Window">Top 10 Cat Poisons</a></li>
+	<li><a href="http://www.petmd.com/cat/conditions/neurological/c_ct_organophosphate_carbamate_toxicity#.T2E6KfUhrxE" target="_blank" title="Insecticide Toxicity in Cats - Opens in New Window">Insecticide Toxicity in Cats-Pet MD</a></li>
+</ul><br />
+
+<a href="#top" title="Take me to the top.">Top</a><br />
+
+<hr />
+David Hunsdon Section 15591
+
+</body>
+</html>
