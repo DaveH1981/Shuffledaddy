@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBliC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<body bgcolor="#BDB76B">
+
+<head>
+
+<title>David Hunsdon Section 15591</title>
+
+<link href="http://web.gccaz.edu/~dhunsdon/Project-8/proj8_style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<h2>XML URL and Title</h2>
+
+<a href="http://web.gccaz.edu/~dhunsdon/Project-8/myurl.xml" title="link to myurl.xml.">myurl.xml</a>
+
+<a href="#top" title="Take me to the top.">Top</a><br />
+
+<hr />
+David Hunsdon Section 15591
+
+</body>
+</html>
