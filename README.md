@@ -1,2 +1,163 @@
 # Shuffledaddy
 Some of my work
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+   
+    <link rel="stylesheet" href="main.css">
+    
+  </head>
+
+  <body>
+    
+    <div class="nav">
+      
+      <div class="container">
+        
+        <ul class="pull-left">
+         
+          <li><a href="#">Contact Me</a></li>
+          <li><a href="#">Passions</a></li>
+          
+        </ul>
+       
+        <ul class="pull-right">
+          
+          <li><a href="#">Sign Up</a></li>
+          <li><a href="#">Log In</a></li>
+          <li><a href="#">Help</a></li>
+          
+        </ul>
+        
+      </div>
+      
+    </div>
+
+    <div class="jumbotron">
+     
+      <div class="container">
+       
+        <h1>My name is David Hunsdon.</h1>
+        
+        <p>I have many interests, not least of which is web development. Welcome to my corner of the web, where I talk about my personal goals, professional aspirations, and what makes me tick. Please feel free to look around.</p>
+        <a href="#">Learn More</a>
+        
+      </div>
+      
+    </div> 
+    
+    <div class="neighborhood-guides">
+    
+        <div class="container">
+        
+            <h2>What are my hobbies?</h2>
+            
+                <p>Take a wild guess. These pictures will give you some clues.</p>
+                
+                <div class="row">
+                
+                    <div class="col-md-4">
+                    
+                        <div class="thumbnail">
+                        
+                            <img src="http://notebookcenter.net/wp-content/uploads/2014/12/cool-computer-technology-backgrounds.jpg" >
+                            
+                        </div>
+                        
+                       <div class="thumbnail">
+                       
+                            <img src="http://www.stjosephschoolsylvania.org/sites/default/files/sports.jpg" >
+                            
+                        </div>  
+                        
+                    </div>
+                    
+                    <div class="col-md-4">
+                    
+                        <div class="thumbnail">
+                        
+                            <img src="http://3.bp.blogspot.com/-Xr4gfiq7-BI/TtQz-fHJRnI/AAAAAAAAF0U/rhEhqK0-1vE/s1600/record-set.png" >
+                            
+                        </div>
+                        
+                        <div class="thumbnail">
+                        
+                            <img src="http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110330-book-stack-hmed-8a.grid-6x2.jpg" >
+                            
+                        </div>
+                    
+                    </div>
+                    
+                    <div class="col-md-4">
+                    
+                        <div class="thumbnail">
+                        
+                            <img src="http://nutritionsmart.com/wp-content/uploads/2014/12/healthy-cooking.jpg" >
+                            
+                        </div>
+                    
+                    <div class="thumbnail">
+                        
+                            <img src="https://www.bookapokerpro.com/assets/files/avatars/7ef265ff8e88d530549f673c16d65728.jpg" >
+                            
+                        </div>
+                    
+                    </div>
+                    
+                </div>
+                
+        </div>
+        
+    </div>    
+    
+     <div class="learn-more">
+     
+	  <div class="container">
+	  
+		<div class="row">
+		
+	      <div class="col-md-4">
+	      
+			<h3>Who Am I?</h3>
+			
+			<p>You're probably wondering, "Just who the hell is this crazy guy with all these different interests?"</p>
+			
+			<p><a href="#">Stick around and find out...</a></p>
+			
+	      </div>
+	      
+		  <div class="col-md-4">
+		  
+			<h3>Bio</h3>
+			
+			<p>I was born on November 11, 1981 in Phoenix, Arizona. I have lived my whole life in the state of Arizona.</p>
+			
+			<p><a href="#">Learn more about Arizona</a></p>
+			
+		  </div>
+		  
+		  <div class="col-md-4">
+		  
+			<h3>What do I do?</h3>
+			
+			<p>Professionally, I am a web developer in the Phoenix area. I took my first web development class at 29 years old and it soon became a hobby. Then, what was a hobby became an obsession, and now it's a pretty cool way to earn a living. However, I am so much more than just a geeky guy who writes code all day(and night). Click on the "passions" tab above or the link below to learn about what I love.</p>
+			
+			<p><a href="#">Why do I get up in the morning?</a></p>
+			
+		  </div>
+		  
+	    </div>
+	    
+	  </div>
+	  
+	</div>
+	
+  </body>
+  
+</html>
