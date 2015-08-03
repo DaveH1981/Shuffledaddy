@@ -1,5 +1,3 @@
-# Shuffledaddy
-Some of my work
 <!DOCTYPE html>
 
 <html>
