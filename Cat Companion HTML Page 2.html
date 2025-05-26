@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+    <head>
+
+        <title>David Hunsdon Section 15591</title>
+
+        <link href="http://web.gccaz.edu/~dhunsdon/Project-8/proj8_style.css" rel="stylesheet" type="text/css" />
+
+        <script type="text/javascript" language="JavaScript" >
+
+        function clearUp () {
+	        document.info.elements[0].value=""
+	        document.info.elements[1].value=""
+	        document.info.elements[2].value=""
+	        document.info.elements[3].value=""
+        }
+
+        function submitted () {
+	        alert("Information submitted.Thank you!")
+        }
+
+        function verify () {  
+	        if (document.info.elements[0].value == "") {
+	        alert ("Please enter your first name.")
+	        } else {
+		        submitted()
+	        }
+        }	
+
+        </script>
+
+    </head>
+
+    <body bgcolor="#BDB76B">
+
+        <h2>What Kind of Cat is Right for You?</h2>
+
+        <img src="http://web.gccaz.edu/~dhunsdon/images/cat_reading_clip_art_6507.jpg" alt="Cat reading paper" width="283" height="425" />
+
+        <em>Please fill out the form below.</em>
+
+        <form name="info">
+            <p>First Name: <input type="text" size="25" name="fname" /> &nbsp; 
+                Last Name: <input type="text" size="15" name="lname" /> 
+
+            <h3>Experience With Pets</h3>
+
+            <p>Please indicate how many pets you have owned before:</p>
+            <blockquote>
+            <input type=checkbox name="exp_class" value="0" />None
+            <br><input type=checkbox name="exp_class" value="1-2" />1-2
+            <br><input type=checkbox name="exp_class" value="3-4" />3-4
+            <br><input type=checkbox name="exp_class" value="5+" />5 or More
+            </blockquote>
+
+            <h3>Shorthair or Longhair?</h3>
+            <p>Please keep in mind that a shorthair cat will be more agreeable for those with allergies.</p>
+            <blockquote><input type="radio" name="hair_length" value="SH" checked="checked" />Shorthair &nbsp; &nbsp; 
+            <input type="radio" name="hair_length" value="LH" />Longhair
+            </blockquote>
+
+            <h3>Indoor or Outdoor?</h3>
+            <p>Do you want an indoor or outdoor Cat:</p>
+            <blockquote><input type="radio" name="cat" value="I" checked="checked" />Indoor &nbsp; &nbsp; 
+            <input type="radio" name="cat" value="O" />Outdoor
+            </blockquote>
+
+            <br>Please indicate your living arrangement:&nbsp;
+            <select name="Home">
+            <option value="House" selected>House&nbsp;
+            <option value="Apartment">Apartment&nbsp;
+            <option value="Townhome/Condo">Townhome/Condo&nbsp;
+            <option value="Other">Other&nbsp;</select>
+
+            <p>Email address: 
+            <input type="text" size="75" name="email" />
+            </p>
+            <hr>Click here to submit or reset this form.
+            <p><input type="submit" value="Submit Form" onClick="verify()" /> 
+            &nbsp; &nbsp; <input type="reset" value="Clear Form" name="reset" /></form>
+
+            <a href="#top" title="Take me to the top.">Top</a><br />
+
+            <hr />
+            <footer><small>David Hunsdon Section 15591</small></footer>
+
+    </body>
+</html>
