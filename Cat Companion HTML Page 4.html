@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBliC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+        <head>
+
+            <title>David Hunsdon Section 15591</title>
+
+            <link href="http://web.gccaz.edu/~dhunsdon/Project-8/proj8_style.css" rel="stylesheet" type="text/css" />
+
+        </head>
+
+        <body bgcolor="#BDB76B">
+
+            <h2>Comparing Some Common Cat Breeds</h2>
+
+            <img src="http://web.gccaz.edu/~dhunsdon/images/Cat%2012.gif" alt="image of kittens playing" align="center" width="246" length="117" />
+
+            <img src="http://web.gccaz.edu/~dhunsdon/images/Three-cats.jpg" alt="image of three cats" align="right" width="200" length="110" />
+
+            <object id="breedlist" classid="clsid:333C7BC4-460F-11D0-BC04-0080C7055A83">
+	            <param name="DataURL" value="cat_breeds.txt">
+	            <param name="UseHeader" value="true">
+            </object>
+
+            <table width="90%" border="4" cellpadding="2" cellspacing="5" id="breedtbl" datasrc="#breedlist" 
+            bordercolorlight="#336699" bordercolordark="#336699" align="center">
+
+            <caption><h3>A comparison of the top cat breeds in the United States<br />Click a category to sort the table</h3></caption>
+            <thead>
+                <tr>
+                    <td><strong><divid="breed"></div>Breed</strong></td>
+                    <td><strong><divid="coat"></div>Coat</strong></td>
+                    <td><strong><divid="origin"></div>Origin</strong></td>
+                    <td><strong><divid="life"></div>Avg Life Span (Yrs)</strong></td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><div datafld="breed"></div></td>
+                    <td><div datafld="coat"></div></td>
+                    <td><div datafld="origin"></div></td>
+                    <td><div datafld="life"></div></td>
+                </tr>
+            </tbody>
+            </table>
+
+            <script type="text/javascript" language="JavaScript">
+
+
+                function breedClick() {
+	                breedlist.Sort="breed";
+	                breedist.Reset();
+                }
+
+                breed.onclick=breedClick;
+
+                function coatClick() {
+	                breedlist.Sort="coat";
+	                breedlist.Reset();
+                }
+
+                coat.onclick=coatClick;
+
+                function originClick() {
+	                breedlist.Sort="origin";
+	                breedlist.Reset();
+                }
+
+                origin.onclick=originClick;
+
+                function lifeClick() {
+	                breedlist.Sort="life";
+	                breedlist.Reset();
+                }
+
+                life.onclick=lifeClick;
+
+
+            </script>
+
+            <a href="#top" title="Take me to the top.">Top</a><br />
+
+            <hr />
+            
+            <footer><small>David Hunsdon Section 15591</small></footer>
+        </body>
+    </html>
