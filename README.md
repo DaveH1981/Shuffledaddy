@@ -8,4 +8,4 @@ This is an example of some of the webpages I have designed. Mostly HTML/CSS/Java
 
 Contact
 --------------------
-I can't foresee anyone wanting to contribute or making a pull request, but if you do, please email me at dave@shuffledaddy.com. That would be the contact email for all other inquiries as well. Thanks.
+I can't foresee anyone wanting to contribute or making a pull request, but if you do, please email me at daveh1981@gmail.com. That would be the contact email for all other inquiries as well. Thanks.
